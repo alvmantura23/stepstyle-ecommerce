@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "image": "/Images/product1.webp",
+    "secondImage": "/Images/product1.webp",
+    "Productname": "Zapatillas Clásicas de Cuero",
+    "price": "S/270.00",
+    "tag": "Nuevo"
+  },
+  {
+    "id": 2,
+    "image": "/Images/product2.webp",
+    "secondImage": "/Images/product2.webp",
+    "Productname": "Zapatillas de Corredor Retro",
+    "price": "S/190.00",
+    "oldprice": "S/270.00",
+    "tag": "En venta"
+  },
+  {
+    "id": 3,
+    "image": "/Images/product3.webp",
+    "secondImage": "/Images/product4.webp",
+    "Productname": "Zapatillas Bajas de Lona",
+    "price": "S/150.00",
+    "tag": "Nuevo"
+  },
+  {
+    "id": 4,
+    "image": "/Images/product5.webp",
+    "secondImage": "/Images/product6.webp",
+    "Productname": "Botas de Senderismo",
+    "price": "S/360.00",
+    "oldprice": "S/420.00",
+    "tag": "En venta"
+  },
+  {
+    "id": 5,
+    "image": "/Images/product7.webp",
+    "secondImage": "/Images/product8.webp",
+    "Productname": "Mocasines Casuales sin cordones",
+    "price": "S/180.00",
+    "oldprice": "S/200.00",
+    "tag": "En venta"
+  },
+  {
+    "id": 6,
+    "image": "/Images/product9.webp",
+    "secondImage": "/Images/product10.webp",
+    "Productname": "Zapatillas deportivas de Gimnasio",
+    "price": "S/200.00"
+  },
+  {
+    "id": 7,
+    "image": "/Images/product11.webp",
+    "secondImage": "/Images/product12.webp",
+    "Productname": "Zapatillas de Calle",
+    "price": "S/150.00"
+  },
+  {
+    "id": 8,
+    "image": "/Images/product13.webp",
+    "secondImage": "/Images/product14.webp",
+    "Productname": "Zapatillas Antitranspirantes",
+    "price": "S/120.00"
+  },
+  {
+    "id": 9,
+    "image": "/Images/product15.webp",
+    "secondImage": "/Images/product16.webp",
+    "Productname": "Zapatos Impermeables para Exteriores",
+    "price": "S/120.00"
+  },
+  {
+    "id": 10,
+    "image": "/Images/product3.webp",
+    "secondImage": "/Images/product4.webp",
+    "Productname": "Zapatillas de Entrenamiento Edición Limitada",
+    "price": "S/130.00",
+    "oldprice": "S/150.00",
+    "tag": "En venta"
+  },
+  {
+    "id": 11,
+    "image": "/Images/product1.webp",
+    "secondImage": "/Images/product1.webp",
+    "Productname": "Zapatillas Blancas Minimalistas",
+    "price": "S/160.00"
+  },
+  {
+    "id": 12,
+    "image": "/Images/product2.webp",
+    "secondImage": "/Images/product2.webp",
+    "Productname": "Zapatos para Caminar",
+    "price": "S/180.00"
+  },
+  {
+    "id": 13,
+    "image": "/Images/product21.png",
+    "secondImage": "/Images/product21.png",
+    "Productname": "Zapatillas Premium",
+    "price": "S/290.00"
+  },
+  {
+    "id": 14,
+    "image": "/Images/product22.png",
+    "secondImage": "/Images/product22.png",
+    "Productname": "Zapatillas Ergonomicas",
+    "price": "S/250.00",
+    "oldprice": "S/350.00",
+    "tag": "En venta"
+  },
+  {
+    "id": 15,
+    "image": "/Images/product23.png",
+    "secondImage": "/Images/product23.png",
+    "Productname": "Zapatillas Compactas para viaje",
+    "price": "S/170.00",
+    "oldprice": "S/290.00",
+    "tag": "En Venta"
+  },
+  {
+    "id": 16,
+    "image": "/Images/product19.png",
+    "secondImage": "/Images/product19.png",
+    "Productname": "Zapatillas de Lujo",
+    "price": "S/180.00",
+    "oldprice": "S/220.00",
+    "tag": "En venta"
+  }
+]
