@@ -64,7 +64,7 @@ function Index() {
             const updatedCart = [...existing, updatedProduct];
             localStorage.setItem('cart', JSON.stringify(updatedCart));
             window.dispatchEvent(new Event('cartUpdated'));
-            toast.success(`${product.Productname} added to your cart!`);
+            toast.success(`${product.Productname} Agregado a tu carrito!`);
         } else {
             toast.info(`${product.Productname} is already in the cart.`);
         }

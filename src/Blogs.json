@@ -1,98 +1,90 @@
 [
     {
         "id": 1,
-        "pere": "Elevate Your Space: The Art of Stylish Furnishing!",
+        "pere": "Mejora tu espacio: ¡El arte de amueblar con estilo!",
         "title": "News",
         "image": "/Images/blog-1.webp",
         "author": "New Post on",
-        "date": "Jan 10, 2025"
+        "date": "Jan 10, 2026"
     },
     {
         "id": 2,
-        "pere": "Wardrobe Wonders: Unraveling the Enigma of Fashion",
+        "pere": "Maravillas del armario: Desentrañando el enigma de la moda",
         "title": "News",
         "image": "/Images/blog-2.webp",
         "author": "New Post on",
-        "date": "Jan 11, 2025"
+        "date": "Jan 11, 2026"
     },
     {
         "id": 3,
-        "pere": "The Art and Science of Web Design: Trends, Tips, and Techniques",
+        "pere": "El arte y la ciencia del diseño web: Tendencias, consejos y técnicas",
         "title": "News",
         "image": "/Images/blog-3.webp",
         "author": "New Post on",
-        "date": "Jan 12, 2025"
+        "date": "Jan 12, 2026"
     },
     {
         "id": 4,
-        "pere": "The Art of Blogging: Mastering Your Voice and Audience Engagement",
+        "pere": "El arte de los blogs: cómo dominar tu voz y la interacción con la audiencia",
         "title": "News",
         "image": "/Images/blog-4.webp",
         "author": "New Post on",
-        "date": "Jan 13, 2025"
+        "date": "Jan 13, 2026"
     },
     {
         "id": 5,
-        "pere": "The Ultimate Guide to Black Friday: Tips, Deals, and Must-Have Items",
+        "pere": "La guía definitiva para el Black Friday: Consejos, ofertas y artículos imprescindibles",
         "title": "News",
         "image": "/Images/blog-5.webp",
         "author": "New Post on",
-        "date": "Jan 14, 2025"
+        "date": "Jan 14, 2026"
     },
     {
         "id": 6,
-        "pere": "How to Host a Magical Christmas Party: Tips and Ideas",
+        "pere": "Cómo organizar una fiesta de Navidad mágica: Consejos e ideas",
         "title": "News",
         "image": "/Images/blog-6.webp",
         "author": "New Post on",
-        "date": "Jan 15, 2025"
+        "date": "Jan 15, 2026"
     },
     {
         "id": 7,
-        "pere": "Christmas Eve Traditions: Creating Magical Memories",
+        "pere": "Tradiciones de Nochebuena: Creando recuerdos mágicos",
         "title": "News",
         "image": "/Images/blog-7.webp",
         "author": "New Post on",
-        "date": "Jan 16, 2025"
+        "date": "Jan 16, 2026"
     },
     {
         "id": 8,
-        "pere": "10 Creative DIY Christmas Decorations to Spruce Up Your Home",
+        "pere": "10 decoraciones navideñas creativas que puedes hacer tú mismo para embellecer tu hogar",
         "title": "News",
         "image": "/Images/blog-8.webp",
         "author": "New Post on",
-        "date": "Jan 17, 2025"
+        "date": "Jan 17, 2026"
     },
     {
         "id": 9,
-        "pere": "Affordable Designer Bags: Style Without Breaking the Bank",
+        "pere": "Bolsos de diseñador asequibles: Estilo sin gastar una fortuna",
         "title": "News",
         "image": "/Images/blog-9.webp",
         "author": "New Post on",
-        "date": "Jan 18, 2025"
+        "date": "Jan 18, 2026"
     },
     {
         "id": 10,
-        "pere": "Sustainable Bags: Eco-Friendly Options for the Conscious Shopper",
+        "pere": "Bolsas sostenibles: Opciones Ecológicas para el comprador consciente",
         "title": "News",
         "image": "/Images/blog-10.webp",
         "author": "New Post on",
-        "date": "Jan 19, 2025"
+        "date": "Jan 19, 2026"
     },
     {
         "id": 11,
-        "pere": "The Ultimate Guide to Choosing the Perfect Bag for Every Occasion",
+        "pere": "La guía definitiva para elegir el bolso perfecto para cada ocasión",
         "title": "News",
         "image": "/Images/blog-11.webp",
         "author": "New Post on",
-        "date": "Jan 20, 2025"
-    },
-    {
-        "id": 12,
-        "pere": "How to Safely Use Marijuana Products: A Comprehensive Guide",
-        "title": "News",
-        "image": "/Images/blog-12.webp",
-        "author": "New Post on",
-        "date": "Jan 21, 2025"
+        "date": "Jan 20, 2026"
     }
 ]
