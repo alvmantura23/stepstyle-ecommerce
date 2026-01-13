@@ -303,11 +303,11 @@ function Index() {
                 <div className="mb-10 text-center">
                     <span className="text-lg capitalize font-semibold text-[#ff823a]">about us</span>
                     <h2 className="capitalize pt-2 pb-3 font-semibold font-bricolage text-4xl md:text-5xl">
-                        welcome to multi store
+                        Bienvenido a Step Style
                     </h2>
                     <p className="capitalize text-sm lg:text-xl text-[#777777] tracking-widest font-bricolage max-w-7xl mx-auto">
-                        Step into comfort and style with our latest collection of shoes, perfect for any occasion.
-                        From sleek sneakers to elegant dress shoes, our curated selection features top brands known for quality and durability. Experience unparalleled comfort with our innovative designs and cushioned soles. Whether you're hitting the gym, going to the office, or enjoying a night out, we have the perfect pair for you. Shop now and elevate your footwear game with our exclusive offers and new arrivals.
+                        Disfruta de la comodidad y el estilo con nuestra última colección de zapatos, perfecta para cualquier ocasión. 
+                        Desde elegantes zapatillas hasta elegantes zapatos de vestir, nuestra cuidada selección incluye las mejores marcas reconocidas por su calidad y durabilidad. Experimenta una comodidad inigualable con nuestros diseños innovadores y suelas acolchadas. Ya sea para ir al gimnasio, a la oficina o disfrutar de una salida nocturna, tenemos el par perfecto para ti. Compra ahora y mejora tu calzado con nuestras ofertas exclusivas y novedades.
                     </p>
                 </div>
 
