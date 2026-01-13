@@ -49,9 +49,9 @@ function Index() {
             const updated = [...existing, product];
             localStorage.setItem('wishlist', JSON.stringify(updated));
             window.dispatchEvent(new Event('wishlistUpdated'));
-            toast.success(`${product.Productname} added to your wishlist!`);
+            toast.success(`${product.Productname} ¡Añadido a tu lista de favoritos!`);
         } else {
-            toast.info(`${product.Productname} is already in your wishlist.`);
+            toast.info(`${product.Productname} ya está en tu lista de favoritos.`);
         }
     };
 
@@ -66,7 +66,7 @@ function Index() {
             window.dispatchEvent(new Event('cartUpdated'));
             toast.success(`${product.Productname} Agregado a tu carrito!`);
         } else {
-            toast.info(`${product.Productname} is already in the cart.`);
+            toast.info(`${product.Productname} ya está en el carrito.`);
         }
     };
 
