@@ -33,17 +33,17 @@ src/
 
 ## 🚀 Instalación
 
-1. Clonar repositorio
+1. Clonar repositorio:
 git clone https://github.com/tuusuario/stepstyle.git
 cd stepstyle
 
-2. Instalar dependencias
+2. Instalar dependencias:
 npm install
 
-3. Iniciar servidor de desarrollo
+3. Iniciar servidor de desarrollo:
 npm run dev
 
-4. Construir para producción
+4. Construir para producción:
 npm run build
 
 ## Exposition YT:
