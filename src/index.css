@@ -226,7 +226,7 @@ body {
     position: relative;
 }
 .product-content:after{
-    content: 'View Product';
+    content: ''; /*View Product*/
     position: absolute;
     top: 50%;
     left: 50%;
